@@ -13,6 +13,7 @@ Installing
 ----------
 
 .. code:: bash
+
     $ git clone https://github.com/opengeophysics/2018-agu-oss-example-repo
     $ cd 2018-agu-oss-example-repo
     $ pip install -e .
