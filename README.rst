@@ -1,6 +1,9 @@
 Example data analysis package
 =============================
 
+.. image:: https://travis-ci.org/opengeophysics/2018-agu-oss-example-repo.svg?branch=master
+    :target: https://travis-ci.org/opengeophysics/2018-agu-oss-example-repo
+
 About
 -----
 
