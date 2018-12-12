@@ -47,6 +47,3 @@ def moving_average(data, window_size):
         average[i] = np.mean(data[i - half_window: i + half_window])
     return average
 
-
-def test_moving_average():
-    assert np.all(moving_average(np.ones(10), 4)[2:-2] == 1)
